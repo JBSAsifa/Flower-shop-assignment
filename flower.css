@@ -131,6 +131,7 @@ body {
     max-width: 880px;
     margin:0 auto ;
     background-image: url('./Flower-Asset/Rectangle\ 9.png');
+    margin-bottom:50px;
 }
 .deal-sec{
     height:300px;
@@ -144,4 +145,15 @@ body {
 .email{
     width: 500px;
     height: 44px;
+}
+.footer{
+    background-color:#111010;
+    height:250px;
+    
+}
+.last{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.40);
 }
