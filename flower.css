@@ -55,7 +55,7 @@ body {
     font-weight: 800;
     margin-bottom: 10px;
     margin-top: 50px;
-    padding-top: 80px;
+    padding-top: 50px;
 }
 .flower-section{
     max-width: 1000px;
@@ -150,6 +150,23 @@ body {
     background-color:#111010;
     height:250px;
     
+}
+.footer-title{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    padding-top: 40px;
+}
+.footer-des{
+    color:rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom:20px;
 }
 .last{
     text-align: center;
