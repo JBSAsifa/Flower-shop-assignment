@@ -2,39 +2,28 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
-
 .pic1 {
     width: 500px;
     height: 500px;
 }
-
-.banner {
-
+.banner{
+    background-color: rgba(229, 84, 115, 0.10);
+    height:500px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    background-color: rgba(229, 84, 115, 0.10);
-    padding: 30px 240px 0px 240px;
+    
 }
 
 .head-title {
     color: #272727;
     font-size: 50px;
     font-weight: 700px;
-    margin-bottom: 32px;
-    gap: 97px;
+    text-align: left;
+    
 }
 
-.section-title {
-    color: #272727;
-    text-align: center;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 800;
-}
-
-.banner-content {
-    padding-top: 197px;
+ .banner-content {
+    padding-left: 197px;
 
 }
 
@@ -42,7 +31,6 @@ body {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    line-height: 30px;
     margin-top: 0px;
 }
 
@@ -53,7 +41,13 @@ body {
     padding: 20px 43px;
     color: white;
 }
-
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
 .section-title {
     color: #272727;
     text-align: center;
@@ -74,7 +68,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     margin-top: 0px;
-    margin-bottom:50px;
+    margin-bottom:30px;
 
 }
 .flowers {
@@ -117,4 +111,37 @@ body {
 }
 .hot{
     align-items: center;
+}
+.insta-sec{
+    max-width: 900px;
+    margin:0 auto ;
+}
+.instagram{
+    height:250px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom:50px;
+
+}
+.pic{
+    width:200px;
+    height:250px;
+}
+.deal{
+    max-width: 880px;
+    margin:0 auto ;
+    background-image: url('./Flower-Asset/Rectangle\ 9.png');
+}
+.deal-sec{
+    height:300px;
+   
+}
+.box{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 200px;
+}
+.email{
+    width: 500px;
+    height: 44px;
 }
