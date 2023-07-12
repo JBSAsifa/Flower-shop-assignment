@@ -132,8 +132,6 @@ body {
     background-color: rgba(229, 84, 115, 0.10);
 }
 .social-link {
-    align-items: center;
-    justify-content:space-between;
     padding-left:550px;
     padding-top: 30px;
     
