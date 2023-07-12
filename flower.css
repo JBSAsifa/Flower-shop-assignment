@@ -127,6 +127,20 @@ body {
     width:200px;
     height:250px;
 }
+.connect{
+    height:250px;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.social-link {
+    align-items: center;
+    justify-content:space-between;
+    padding-left:550px;
+    padding-top: 30px;
+    
+}
+.icon{
+   width: 50px; 
+}
 .deal{
     max-width: 880px;
     margin:0 auto ;
